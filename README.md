@@ -3,6 +3,7 @@
 
 <h3 align="center">About me</h3>
 <p align="center">
+  In Software Development, I am highly interested in the UI design aspect of a software application. Naturally, I seek to grow my skills in Front-end development tools and languages, such as AngularJS & ReactJS, to supplement my skills in HTML & CSS. As a Cybersecurity student, I often work on projects involving Python as a more general purpose and scripting language. On my profile, I feature some of the projects I've worked on in school and on my own time to grow my own skills.
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -28,4 +29,4 @@
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
-  </p>
+</p>
