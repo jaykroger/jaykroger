@@ -35,5 +35,7 @@
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
 </p>
+  <br>
 
 <h3 align="center">Contact</h3>
+  <p><a href="mailto:jay.kroger123456@gmail.com">Email Me</a></p>
