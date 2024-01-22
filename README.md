@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Jay.</h1>
 <h2 align="center">Software Development and Cybersecurity Student</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">About me</h3>
+<p align="center">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
