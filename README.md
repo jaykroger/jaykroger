@@ -38,4 +38,6 @@
   <br>
 
 <h3 align="center">Contact</h3>
-  <p algin="center"><a href="mailto:jay.kroger123456@gmail.com">Email Me</a></p>
+  <p align="center">
+    <a href="mailto:jay.kroger123456@gmail.com">Email Me</a>
+  </p>
