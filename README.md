@@ -7,11 +7,9 @@
 </p> 
   <br>
 <p align="center">
-   Some of my hobbies outside of programming include photography, videography, fashion, and motorcycles. I have a Kawasaki Ninja 400 currently, so feel free to connect with me if you'd like to ride :)
+   Some of my hobbies outside of programming include photography, videography, fashion, and motorcycle riding.
 </p>
   <br>
-
-
   
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -37,3 +35,5 @@
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
 </p>
+
+<h3 align="center">Contact</h3>
