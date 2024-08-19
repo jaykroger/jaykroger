@@ -1,14 +1,13 @@
 <h1 align="center">Hi, I'm Jay.</h1>
 <h2 align="center">Software Development and Cybersecurity</h2>
-<br>
 
 <h3 align="center">About Me</h3>
 <p align="center">
-  In Software Development, I am highly interested in the UI design aspect of a software application. Naturally, I seek to grow my skills in Front-end development tools and languages, such as AngularJS & ReactJS, to supplement my skills in HTML & CSS. As a Cybersecurity student, I often work on projects involving Python as a general purpose and scripting language. On my profile, I feature some of the projects I've worked on in school and on my own time to grow my skills.
+  In Software Development, I am highly interested in frontend UI design, and I seek to hone my skills in frameworks like React.js. Being a Cybersecurity student, I also spend much of my time scripting in Python for various security and infrastructure management tasks. Nevertheless, I also have experience programming with a number of other languages and frameworks, such as Java and .NET. On my profile, you can see some of the academic projects I've worked on, as well as some personal projects.
 </p> 
   <br>
 <p align="center">
-   Some of my hobbies outside of programming include photography, videography, fashion, and motorcycle riding.
+   Outside of my programming work, some of my hobbies outside of programming include photography, videography, fashion, and motorcycle riding.
 </p>
   <br>
   
