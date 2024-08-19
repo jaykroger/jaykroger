@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Jay.</h1>
 <h2 align="center">Software Development and Cybersecurity</h2>
+<br>
 
 <h3 align="center">About Me</h3>
 <p align="center">
