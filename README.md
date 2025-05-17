@@ -2,7 +2,7 @@
 
 ## Pathologically Curious about All Things IT & Cybersecurity
 
-<b>Hello! I'm Jay, a Software Development, Cybersecurity, and Systems/Network Administration student from Cincinnati. </b>
+<b>Hello! I'm Jay, a Software Development and Cybersecurity student from Cincinnati. </b>
 
 I am passionate about several areas of Software Development & Cybersecurity, including:
 - Full-stack Web Application Development
