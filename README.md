@@ -4,7 +4,7 @@
 
 <b>Hello! I'm Jay, a Software Development and Cybersecurity student from Cincinnati. </b>
 
-I am passionate about several areas of Software Development & Cybersecurity, including:
+I'm passionate about several areas of Software Development & Cybersecurity, including:
 - Full-stack Web Application Development
 - Microservices Architecture
 - Application Security
@@ -19,11 +19,11 @@ These initiatives are supported by my insatiable curiosity and love for IT, back
 
 ## My Repositories
 
-On my GitHub profile you will find repositories related to my personal networking and infrastructure projects, spanning various areas such as Infrastructure-as-Code, Automation, and Application Development.
+You'll find most of my active repositories in my organization Labrynth Network. These repos span various areas such as Infrastructure-as-Code, Automation, and Application Development.
 
-Some of my most commonly used languages are:
+For application development or automation-related projects, some of my most commonly used languages are:
 - Python
-- NodeJS
+- JavaScript
 - PowerShell
 
 ## Contact Me
