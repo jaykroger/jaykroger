@@ -11,7 +11,7 @@ I'm passionate about security architecture that makes adversaries think twice. I
 
 ## Projects
 
-You'll find most of my public-facing repositories in my GitHub organization [`ilysiumdotdev`]([https://github.com/orgs/black-quartz/repositories](https://github.com/orgs/ilysiumdotdev/repositories)) — I opt to keep my repositories here rather than my personal profile to facilitate standards and more efficient collaboration with peers & colleagues.
+You'll find most of my public-facing repositories in my GitHub organization [`ilysiumdotdev`](https://github.com/orgs/ilysiumdotdev/repositories) — I opt to keep my repositories here rather than my personal profile to facilitate standards and more efficient collaboration with peers & colleagues.
 
 ## Tech Stack
 
