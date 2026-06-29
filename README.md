@@ -35,4 +35,4 @@ You'll find most of my public-facing repositories in my GitHub organization [`il
 
 ## Get in Touch
 
-Feel free to reach out to me on my [LinkedIn Profile](https://www.linkedin.com/in/jay-kroger), or via email at contact@jaykroger.com.
+Feel free to reach out to me on my [LinkedIn Profile](https://www.linkedin.com/in/jay-kroger), or via email at business@jaykroger.com.
